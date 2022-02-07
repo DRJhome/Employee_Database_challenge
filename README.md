@@ -1,5 +1,4 @@
 # Employee_Database_challenge
-
 Employee Retirement Planning
 
 
@@ -20,5 +19,5 @@ The results from the project are listed below:
 2.	Finance Department has the lowest number of employees ready to retire.
 3.	The Development Department has the highest number of retirement age ready employees
 4.	There are 1,550 employees eligible for the mentorship program
-5.	Pewlett-Hackard will need to focus hiring for the Development Department due to 22% of the departments employees are retirement age.
-![image](https://user-images.githubusercontent.com/91449005/152719723-87138705-428b-4dbc-a45f-d36c461dee5a.png)
+5.	Pewlett-Hackard will need to focus hiring for the Development Department due to 22% of the department’s employees are retirement age.
+![image](https://user-images.githubusercontent.com/91449005/152719812-13ee5f60-78a1-4bb6-bcbe-0e4058062c23.png)
